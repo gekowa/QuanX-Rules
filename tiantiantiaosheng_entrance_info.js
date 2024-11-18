@@ -17,7 +17,7 @@ obj = {
   "code": 0,
   "msg": "success",
   "data": {
-    "member_status": "splus",
+    "member_status": "big_member",
     "entrance_ad": {
       "ad_text": "",
       "ad_url": ""
