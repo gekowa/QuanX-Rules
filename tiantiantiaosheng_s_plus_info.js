@@ -19,7 +19,7 @@ obj = {
   "data": {
     "is_member": true,
     "member_name": "BIG G",
-    "member_expiration_time": "2099-12-31",
+    "member_expiration_time": "2099-12-31 19:58:21",
     "medal_id": 0,
     "medal_picture": "",
     "today_ttb": false,
@@ -31,12 +31,12 @@ obj = {
       "renew_enabled": true
     },
     "member_type": "big_member",
-    "big_expiration_time": "2099-12-31",
+    "big_expiration_time": "2099-12-31 19:58:21",
     "big_renew_status": true,
     "is_ad_trial": true,
-    "is_pure_enjoy": false,
-    "pure_enjoy_renew_status": false,
-    "pure_enjoy_expiration_time": "",
+    "is_pure_enjoy": true,
+    "pure_enjoy_renew_status": true,
+    "pure_enjoy_expiration_time": "2099-12-31 19:58:21",
     "member_growth_value": {
       "level_no": 0,
       "min_value": 0,

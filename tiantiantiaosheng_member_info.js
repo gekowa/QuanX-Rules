@@ -19,8 +19,8 @@ obj = {
     "data": {
       "member_flag": true,
       "member_type": 1,
-      "receive_flag": false,
-      "day_count": 66
+      "receive_flag": true,
+      "day_count": 166
     }
   };
 

@@ -19,8 +19,8 @@ obj = {
   "data": {
     "member_status": "big_member",
     "entrance_ad": {
-      "ad_text": "",
-      "ad_url": ""
+      "ad_text": "百度一下，你就知道",
+      "ad_url": "https://www.baidu.com"
     }
   }
 };
